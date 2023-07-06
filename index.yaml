@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  automata:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-06T11:14:28.5230965+05:30"
+    description: A Helm chart for Kubernetes
+    digest: a2d013a1ba1ebe190822e00196bbf1c39c128d3b8e46b6b5c67073b4caf26fd4
+    name: automata
+    type: application
+    urls:
+    - automata-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-07-06T11:14:28.5219389+05:30"
